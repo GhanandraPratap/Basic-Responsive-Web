@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>YO</title>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+
+</head>
+<body>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-3">
+				<div class="col-md-12">
+				 <a href="https://www.webreinvent.com"><div class="side"><img src="C:\Users\ghanandra.p\Downloads\webre.jpg"></div></a>
+			    </div>
+				<div class="col-md-12">
+				 <div class="side">s2</div>
+				</div>
+			</div>
+			<div class="col-md-9">
+				<div class="main">main</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
